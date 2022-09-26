@@ -1,1 +1,2 @@
-# Alıştırma Projesi
+# Sample Project
+
